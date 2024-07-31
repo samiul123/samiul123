@@ -38,7 +38,7 @@
   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
+  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx&logoColor=009639)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make)
   ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
