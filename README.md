@@ -46,11 +46,11 @@
 
 <br/>
 
-<!--<a href="https://github.com/samiul123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samiul123)](https://git.io/streak-stats)
+<a href="https://github.com/samiul123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiul123&theme=holi&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiul123&theme=holi&layout=compact" />
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=samiul123)](https://git.io/streak-stats) -->
 
 <br/>
 
