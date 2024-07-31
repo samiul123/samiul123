@@ -6,6 +6,7 @@
 
 - Pursuing Master's in Computer Science at the University of Minnesota-Duluth.
 - Working on parallel computing domain utilizing Intel SIMD intrinsics.
+- Experienced Software Engineer with 4 years of experience.
 - Looking for Full-time roles as a Software Engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
