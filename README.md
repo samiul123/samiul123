@@ -29,8 +29,8 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
   ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
+  ![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine&logoColor=8A4182)
 <!--- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
