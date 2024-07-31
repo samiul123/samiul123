@@ -2,6 +2,8 @@
 
 <h2> Hey there! I'm Samiul.</h2>
 
+![](https://komarev.com/ghpvc/?username=samiul123&abbreviated=true)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - Pursuing Master's in Computer Science at the University of Minnesota-Duluth.
