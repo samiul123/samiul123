@@ -19,7 +19,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
   ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=gnubash)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=#E10098)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
 <!--- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
