@@ -12,9 +12,13 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bash](https://img.shields.io/badge/-GNU-Bash-333333?style=flat&logo=gnubash)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 <!--- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
